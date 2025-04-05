@@ -11,5 +11,3 @@ A Country’s GDP will affect the happiness and quality of life of each country'
 ###### Visualization:
 
 ###### Conclusion:
-
-###### Presentation Video:
